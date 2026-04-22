@@ -3,4 +3,5 @@
 Determine the optimal locations for a new coffee shop by applying geospatial analysis that considers population density, proximity to parks, accessibility to roads, and distance from existing competitors.
 
 Same analysis is performed using QGIS.
+![QGIS Analysis](QGIS_Suitability.png)
 
